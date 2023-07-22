@@ -10,13 +10,13 @@
 
 ## 📦 安装
 
-这个工具已经被打包为一个独立的exe文件，你可以在 [release ↗](https://github.com/haorwen/EnglishArticleProcessor/releases) 下载到它。如果你更喜欢在Python环境下运行，也可以下载py源码文件自行使用。
+你可以在 [release ↗](https://github.com/haorwen/EnglishArticleProcessor/releases) 下载到py文件，用法见如何使用
 
 ## 🎯 如何使用
 
 ### EXE
 
-如果你下载了exe文件，只需要双击运行即可弹窗选择文件。
+exe文件打包后过大，暂不提供
 
 ### Python源码
 
