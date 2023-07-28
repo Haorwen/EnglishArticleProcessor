@@ -1,6 +1,7 @@
 # 📚 英文文章单词切割工具🔪🔍
-（本项目来源于《腾讯云Cloud Studio实战训练营》的参赛作品，该作品在腾讯云Cloud Studio中运行无误。）
-一个简单的Python工具，它可以把英文文章支持（.docx，.txt，.pdf三种格式）切割为单词，然后添加发音和释义，最后以表格的形式输出，此为学习python的练手作，有不足之处恳请大佬指正！🎉🎉
+本项目来源于[《腾讯云 Cloud Studio 实战训练营》](https://marketing.csdn.net/p/06a21ca7f4a1843512fa8f8c40a16635)的参赛作品，该作品在腾讯云 [Cloud Studio](https://www.cloudstudio.net/?utm=csdn) 中运行无误。
+
+一个简单的Python工具，它可以把英文文章（.docx，.txt，.pdf三种格式）切割为单词，然后添加发音和释义，最后以表格的形式输出，此为学习python的练手作，有不足之处恳请大佬指正！🎉🎉
 
 ## 🚀 功能
 
